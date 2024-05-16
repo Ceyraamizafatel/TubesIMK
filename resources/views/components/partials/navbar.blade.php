@@ -1,7 +1,7 @@
-<nav class="bg-[#001840] text-white p-6 ">
+<nav class="bg-[#001840] text-white p-4 ">
     <div class="flex items-center gap-4">
 
-        <div class="flex items-center justify-center text-black bg-white rounded-full w-14 h-14">
+        <div class="flex items-center justify-center text-black bg-white rounded-full p-2">
             <a href="">Logo</a>
         </div>
         <span>
